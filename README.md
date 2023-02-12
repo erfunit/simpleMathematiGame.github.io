@@ -1,5 +1,5 @@
 # simpleMathematiGame.github.io
-this a simple mathematic game that has been created using windows form (C#)
+this is a simple mathematic game that has been created using windows form (C#)
  
  in this game, you have 4 main buttons that point to a particular row.
 if you click on each button, the random number given to you will add
